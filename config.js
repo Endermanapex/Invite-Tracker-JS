@@ -1,17 +1,17 @@
 module.exports = {
-    prefix: "", // The prefix of the bot
-    welcomeChannel: "", // The channel ID of where join and leave messages should be sent
-    slashCommands: true, // Wether or not the bot should have slash commands
+    prefix: process.env.prefix,
+    welcomeChannel: process.env.welcomeid,
+    slashCommands: true,
     colors: {
         main: [0, 110, 255],
         error: [231, 76, 60]
     },
     botstatus: {
         enabled: false, // Wether or not the bot should have a status
-        status: "", // The status of the bot (dnd, online, idle, invisible)
-        activity_type: "", // The type of the activity (watching, listening, playing, streaming)
-        activity_text: "", // The activity text
-        activity_url: "" // The stream URL
+        status: process.env.status, // The status of the bot (dnd, online, idle, invisible)
+        activity_type: "process.env.status_type", // The type of the activity (watching, listening, playing, streaming)
+        activity_text: "process.env.status_text", // The activity text
+        activity_url: "https://google.com" // The stream URL
     },
     inviteRewards: false, // Wether or not invite rewards should be enabled
     rewards: [

@@ -1,0 +1,7 @@
+{
+  "name": "Invite Tracker!",
+  "description": "This Is A Invite Tracker Bot!",
+  "repository": "https://github.com/heroku/node-js-getting-started",
+  "logo": "",
+  "keywords": ["node", "express", "static"]
+}

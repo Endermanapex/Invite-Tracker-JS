@@ -1,10 +1,9 @@
 <h1 align="center">Invite Manager</h1>
-<[![Run on Repl.it](https://repl.it/badge/github/unknownblueguy6/MineSweeper)](https://repl.it/github/unknownblueguy6/MineSweeper)
 
 ---
 
 **Getting Started**  
-Invite Manager is an advanced, easy to setup, free, and unbranded Discord bot. The instructions to set it up and host it are available [here](https://github.com/TheShadowGamer/invite-manager/wiki/setup).
+Invite Manager is an advanced, easy to setup, free, and unbranded Discord bot. The instructions to set it up and host it are available [here]().
 
 **Support**  
 If you need help with the bot, feel free to [join our support server](https://discord.gg/xNks8jb).
@@ -25,3 +24,7 @@ This TOS is being updated August 15th, 2020 and will require all bots to have a 
 More info can be found on the [Discord Developers](https://discord.gg/discord-developers) server in [this message](https://discord.com/channels/613425648685547541/697489244649816084/728031320625905794).
 
 It is your responsibility to make sure your use of this bot is not against the TOS of any services it uses.
+
+Deploy To Diffrent Platform's!
+
+[![Run on Repl.it](https://repl.it/badge/github/unknownblueguy6/MineSweeper)](https://repl.it/github/Endermanapex/Invite-Tracker-JS)

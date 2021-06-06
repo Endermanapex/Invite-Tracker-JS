@@ -3,7 +3,7 @@
 ---
 **Deploy**
 
-[![Run on Glitch.com](https://raw.githubusercontent.com/Endermanapex/images/main/hope%20it.png)](https://glitch.com/edit/#!/import/git?url=https://github.com/ZeroDiscord/EconomyBot/)
+[![Run on Glitch.com](https://raw.githubusercontent.com/Endermanapex/images/main/hope%20it.png)](https://glitch.com/edit/#!/import/git?url=https://github.com/Endermanapex/Invite-Tracker-JS/)
 
 [![Run on Repl.it](https://repl.it/badge/github/Endermanapex/Invite-Tracker-JS)](https://repl.it/github/Endermanapex/Invite-Tracker-JS)
 

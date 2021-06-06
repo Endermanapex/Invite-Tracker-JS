@@ -7,6 +7,8 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/Endermanapex/Invite-Tracker-JS)](https://repl.it/github/Endermanapex/Invite-Tracker-JS)
 
+https://heroku.com/deploy?template=https://github.com/heroku/node-js-getting-started/tree/master
+
 **Getting Started**  
 Invite Manager is an advanced, easy to setup, free, and unbranded Discord bot. The instructions to set it up and host it are available [here]().
 
